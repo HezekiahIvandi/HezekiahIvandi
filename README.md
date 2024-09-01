@@ -1,4 +1,1 @@
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hezekiahivandi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hezekiahivandi&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
